@@ -37,4 +37,4 @@ Picture - 4
 ![Text Editor](text_editior_pic4.png)
 
 Picture - 5
-![Text Editor](textpic5.png)
+![Text Editor](textpic 5.png)
