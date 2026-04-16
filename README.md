@@ -24,5 +24,5 @@ This project demonstrates GUI development, file handling, and user-friendly feat
 ---
 
 ## 📸 Screenshots
-text_editior_pic1.png
+(text_editior_pic1.png)
 
