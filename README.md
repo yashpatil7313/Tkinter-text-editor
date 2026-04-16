@@ -24,5 +24,17 @@ This project demonstrates GUI development, file handling, and user-friendly feat
 ---
 
 ## 📸 Screenshots
+Picture - 1
 ![Text Editor](text_editior_pic1.png)
 
+Picture - 2
+![Text Editor](text_editior_pic2.png)
+
+Picture - 3
+![Text Editor](text_editior_pic3.png)
+
+Picture - 4
+![Text Editor](text_editior_pic4.png)
+
+Picture - 5
+![Text Editor](textpic5.png)
